@@ -12,4 +12,4 @@
 
 4. You may encounter a popup entitled **Welcome to Microsoft Azure** with buttons for **Start Tour** and **Maybe Later** - Choose **Maybe Later**.
 
-5. Click **Next** on the bottom right of this page.
+5. Click **Next** on the bottom right of this page to continue with the lab guide.
